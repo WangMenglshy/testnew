@@ -9,7 +9,7 @@
 
     <groupId>com.aaa.github</groupId>
     <artifactId>github-common</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
 
     <modules>
