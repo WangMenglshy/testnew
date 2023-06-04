@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="github-api" />
         <module name="github-auth" />
+        <module name="github-getway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
