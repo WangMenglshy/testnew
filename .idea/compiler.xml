@@ -8,11 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="github-api" />
         <module name="github-auth" />
+        <module name="github-common" />
         <module name="github-getway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="github-common" target="1.8" />
       <module name="github-common-core" target="1.8" />
       <module name="github-common-datasource" target="1.8" />
       <module name="github-common-redis" target="1.8" />

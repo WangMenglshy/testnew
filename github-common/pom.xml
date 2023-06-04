@@ -5,12 +5,18 @@
         <groupId>org.example</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
-
     <modelVersion>4.0.0</modelVersion>
+
     <groupId>com.aaa.github</groupId>
     <artifactId>github-common</artifactId>
     <packaging>jar</packaging>
 
+
+<!--    <modules>-->
+<!--        <module>github-common-core</module>-->
+<!--        <module>github-common-redis</module>-->
+<!--        <module>github-common-security</module>-->
+<!--        <module>github-common-datasource</module>-->
+<!--    </modules>-->
 
 </project>

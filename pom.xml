@@ -10,7 +10,7 @@
     <module>github-api</module>
     <module>github-auth</module>
     <module>github-getway</module>
-    <module>github-common</module>
+
     <!--    <module>song-visual</module>-->
   </modules>
 
