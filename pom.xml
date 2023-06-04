@@ -12,7 +12,9 @@
     <module>github-auth</module>
     <module>github-getway</module>
 
+
     <!--    <module>song-visual</module>-->
+
   </modules>
 
   <packaging>pom</packaging>
@@ -42,6 +44,7 @@
   </properties>
 
   <dependencyManagement>
+
     <dependencies>
       <!-- AOP依赖 -->
       <dependency>
@@ -114,7 +117,7 @@
       </dependency>
 
 
-      <!-- SpringCloud 微服务 -->
+<!--       SpringCloud 微服务-->
       <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-dependencies</artifactId>
@@ -122,6 +125,7 @@
         <type>pom</type>
         <scope>import</scope>
       </dependency>
+
       <!-- SpringBoot 依赖配置 -->
       <dependency>
         <groupId>org.springframework.boot</groupId>
