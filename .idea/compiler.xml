@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="github-api" />
         <module name="github-common-core" />
+        <module name="github-admin" />
         <module name="github-getway" />
+        <module name="github-admin-api" />
         <module name="github-auth" />
-        <module name="github-common" />
         <module name="github-common-redis" />
         <module name="github-common-security" />
         <module name="github-common-datasource" />
+        <module name="github-modules" />
       </profile>
     </annotationProcessing>
   </component>

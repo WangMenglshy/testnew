@@ -11,6 +11,9 @@
     <module>github-api</module>
     <module>github-auth</module>
     <module>github-getway</module>
+    <module>github-modules</module>
+    <module>github-modules/github-admin</module>
+    <module>github-api/github-admin-api</module>
   </modules>
   <packaging>pom</packaging>
 
