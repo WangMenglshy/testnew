@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="github-api" />
-        <module name="github-auth" />
+        <module name="github-common-core" />
         <module name="github-getway" />
+        <module name="github-auth" />
+        <module name="github-common" />
+        <module name="github-common-redis" />
+        <module name="github-common-security" />
+        <module name="github-common-datasource" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="github-common" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
