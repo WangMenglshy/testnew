@@ -13,6 +13,10 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="github-common" target="1.8" />
+      <module name="github-common-core" target="1.8" />
+      <module name="github-common-datasource" target="1.8" />
+      <module name="github-common-redis" target="1.8" />
+      <module name="github-common-security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
